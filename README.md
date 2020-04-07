@@ -1,1 +1,1 @@
-# -curation
+# devatypic-curation
